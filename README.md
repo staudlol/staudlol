@@ -7,8 +7,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=staudlol&count_private=true&show_icons&theme=tokyonight">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=staudlol">
-
 ## Recent Projects
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=staudlol&repo=leaf">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=staudlol&repo=pickaxes">
