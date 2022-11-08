@@ -9,5 +9,4 @@
 
 ## Recent Projects
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=staudlol&repo=leaf">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=staudlol&repo=pickaxes">
